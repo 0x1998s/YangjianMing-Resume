@@ -157,6 +157,34 @@
 
 ---
 
+### 📈 [加密货币市场分析Agent - 行情分析Demo](https://udify.app/chat/WwklgREF9CoWaz9h)
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Live%20Demo-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tech-LLM%20|%20Market%20Analysis%20|%20Real--time-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-加密货币分析-orange?style=for-the-badge" />
+</div>
+
+**项目背景**: 基于Dify开发的智能加密货币市场分析系统
+
+**核心特性**:
+- 📊 **实时行情分析** - 多维度技术指标分析，支持BTC/ETH等主流币种
+- 🔍 **舆情监控** - 社交媒体情绪分析，捕捉市场热点和风险信号
+- ⚡ **智能预警** - 基于AI模型的价格异动检测和趋势预判
+- 📈 **策略建议** - 结合技术分析和基本面分析的投资决策支持
+- 🤖 **自动化交易信号** - 生成可执行的交易策略和风险管理建议
+
+**技术亮点**:
+- 集成多个数据源的实时数据处理
+- 基于Transformer的市场情绪分析模型
+- 多Agent协同的决策支持系统
+- 高频数据处理和毫秒级响应
+- MCP协议标准化API接口
+
+[🚀 在线体验](https://udify.app/chat/WwklgREF9CoWaz9h) | [📊 功能演示](https://udify.app/chat/WwklgREF9CoWaz9h)
+
+---
+
 ## 🛠️ 技术栈总览
 
 ### 后端技术
@@ -183,13 +211,13 @@
 
 ## 📊 项目对比
 
-| 特性 | Rayneo AI Agent | SaaS Agent | TCL AI Agent |
-|------|----------------|------------|--------------|
-| **应用场景** | 本地化大模型平台 | 企业自动化 | 工业数据分析 |
-| **技术重点** | RAG + 模型微调 | 多Agent协同 | 统计分析 + ML |
-| **部署方式** | 本地化部署 | 云端SaaS | 混合部署 |
-| **目标用户** | 技术团队 | 企业用户 | 数据分析师 |
-| **核心价值** | 数据隐私保护 | 业务流程自动化 | 智能决策支持 |
+| 特性 | Rayneo AI Agent | SaaS Agent | TCL AI Agent | 加密货币分析Agent |
+|------|----------------|------------|--------------|------------------|
+| **应用场景** | 本地化大模型平台 | 企业自动化 | 工业数据分析 | 金融市场分析 |
+| **技术重点** | RAG + 模型微调 | 多Agent协同 | 统计分析 + ML | 实时数据 + LLM |
+| **部署方式** | 本地化部署 | 云端SaaS | 混合部署 | 云端实时 |
+| **目标用户** | 技术团队 | 企业用户 | 数据分析师 | 交易员/投资者 |
+| **核心价值** | 数据隐私保护 | 业务流程自动化 | 智能决策支持 | 投资决策辅助 |
 ---
 
 
@@ -264,5 +292,6 @@
 **欢迎HR和技术负责人联系我，期待与您深入交流！**
 
 ---
+
 
 *最后更新: 2025年9月*
