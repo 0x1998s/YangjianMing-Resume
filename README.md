@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/Focus-零售业务智能-orange?style=for-the-badge" />
 </div>
 
-**项目背景**: 基于沃尔玛高级算法工程师JD需求开发的企业级AI Agent平台
+**项目背景**: 基于沃尔玛高级算法工程师JD需求开发的企业级AI Agent
 
 **核心特性**:
 - 🧠 **多Agent协同架构** - 销售、库存、客服、数据分析专业Agent
